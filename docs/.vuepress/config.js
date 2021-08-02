@@ -11,7 +11,7 @@ module.exports = {
     sidebar: {
       '/JavaScript/': [
         '/JavaScript/',
-        '/JavaScript/手动实现call、apply、bind'
+        '/JavaScript/函数上下文中this的指向'
       ]
     },
   }
